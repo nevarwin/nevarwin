@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nevarwin
+- 👋 Hi, I’m Raven Solis (@nevarwin)
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on working pet apps
