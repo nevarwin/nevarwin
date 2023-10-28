@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raven Solis (@nevarwin)
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Mobile Development and PHP/Laravel Framework
+- 🌱 I’m currently learning Laravel Framework
 - 💞️ I’m looking to collaborate on working pet apps
 - 📫 How to reach me, reach me in ravencsolis@gmail.com
 
